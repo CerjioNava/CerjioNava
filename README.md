@@ -7,5 +7,5 @@
   
 - 🌱 I’m currently learning Backend Development (Express.js & Node.js) from Web Development Course from ZTM.
 - 💞️ I'm a Unity Developer by passion. You can see some of my work in my IG: https://www.instagram.com/sn.gamedev/
-- 📫 https://www.linkedin.com/in/sergio-j-nava-g/
+- 📫 Contact me: https://www.linkedin.com/in/sergio-j-nava-g/
 
