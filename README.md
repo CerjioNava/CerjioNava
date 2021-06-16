@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CerjioNava (Sergio Nava), I'm a 22 years old Electrical Engineering Student and Junior Developer.
+- 👋 Hi, I’m Sergio Nava, I'm a 22 years old Electrical Engineering Student and Junior Developer.
 - 👀 I'm growing as a Full Stack and Python Developer by studying in Zero To Mastery Academy. Right now I've done:
   
   * Python Developer Course from ZTM.
