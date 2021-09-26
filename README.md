@@ -7,7 +7,7 @@
   * Web Development Course from ZTM.
   * Design for Programmers from Platzi.
   
-- 🌱 I’m currently developing my own personal website.
+- 🌱 I’m currently developing my own personal website and working as a Backend Developer.
 - 💞️ As a Unity Developer! You can see some of my work in my IG: https://www.instagram.com/sn.gamedev/
 - 📫 Contact me: https://www.linkedin.com/in/sergio-j-nava-g/
 
