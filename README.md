@@ -1,11 +1,6 @@
-- 👋 Hello there! I’m Sergio Nava, a Web Developer that also loves creating video games as a hobby!
-- 👀 I've done many courses from Zero to Mastery Academy and Platzi. Gotta improve, always.
-  
-- 🌱 I’m currently working as a Full Stack Developer.
-- 💞️ As a Unity Developer! You can see some of my work in my IG: https://www.instagram.com/sn.gamedev/
-- 📫 Contact me: https://www.linkedin.com/in/sergio-j-nava-g/
+- 👋 Hello there! I’m Sergio Nava, an Electrical Engineer and Software Developer!
+- 🤖 Specialized in AWS Development and Application Architecture. That's my work.
+- 🌱 Currently getting certified with AWS.
+- 👾 Sometimes I create videogames with Unity, you can see some of my work here: https://www.instagram.com/sn.gamedev/
 
-Read more at my personal website on the description!
-
-This description is out of date :)
-
+Read more at my personal website on the description! (Deprecated)
